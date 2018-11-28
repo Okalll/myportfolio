@@ -1,0 +1,56 @@
+body{
+  background-color:grey;
+  font-family:"sans serif";
+  font-size: 30px;
+  color:black;
+  font-family: 'Amatic SC',cursive;
+}
+nav{
+  width: 100%;
+  color: white;
+  height: 60px;
+  font-size: 50px;
+  padding: 10px;
+  background-color: black;
+  font-family: 'Amatic SC', cursive;
+  text-align: center;
+}
+p{
+  color: black;
+  font-family: 'Amatic SC', cursive;
+  font-family: 'Pompiere', cursive;
+}
+#home{
+  margin-right: 15px;
+}
+#about{
+  margin-right: 15px;
+}
+#projects{
+  margin-right: 15px;
+}
+nav >a:hover{
+  background-color: grey;
+}
+.image{
+  float: right;
+}
+#head{
+  margin-right: 20px;
+  text-decoration: underline;
+  flex: auto;
+  clear:both;
+  text-align: right;
+}
+h1{
+  text-decoration: underline;
+}
+.img{
+  float: left;
+}
+#heading>span{
+  color: blue;
+}
+#project{
+  clear:left;
+}

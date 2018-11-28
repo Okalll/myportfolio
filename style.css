@@ -1,0 +1,13 @@
+.imag{
+  float:right;
+}
+body{
+  font-family: 'Amatic SC', cursive;
+  background-color: grey;
+  font-size: 30px;
+  color: black;
+}
+p{
+  font-family: 'Amatic SC' cursive;
+  font-family: 'Pompiere', cursive;
+}
